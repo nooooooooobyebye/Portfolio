@@ -1,0 +1,34 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 200px;
+}
+
+.div-wrapper{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100vh;
+  grid-template-areas:
+  "one two three four";
+    
+}
+
+.One{
+  grid-area: one;
+  border: 3px solid red;
+}
+
+.Two{
+  grid-area: two;
+  border: 3px solid red;
+}
+
+.Three{
+  grid-area: three;
+  border: 3px solid red;
+}
+
+.Four{
+  grid-area: four;
+  border: 3px solid red;
+}
