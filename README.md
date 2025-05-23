@@ -1,5 +1,5 @@
 # Alondra E.
 
-Github resp: https://github.com/nooooooooobyebye/Portfolio/tree/main
+Github resp:
 
-Live Website: https://nooooooooobyebye.github.io/Portfolio/
+Live Website:
