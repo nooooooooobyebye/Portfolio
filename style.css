@@ -1,4 +1,5 @@
- body {
+
+      body {
         font-family: 'Comic Sans MS', cursive, sans-serif; 
      
         background-color: #aec3b0;
@@ -36,5 +37,4 @@
         color: rgb(177, 193, 204);
         border-radius: 10px;
       }
-      
   
